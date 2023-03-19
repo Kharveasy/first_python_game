@@ -1,6 +1,18 @@
 # first_python_game
 My first pygame expirience
 
+Version #0.2
+Tasks: 
+  Add a "player" texture.
+  Add texture "bonuses" and "enemies"
+  Add background.
+  Make background motion effect.
+  Make an animation of the "flight" of the player.
+  Bonuses should appear outside the screen.
+  Enemies should disappear off screen.
+  Add a points counter that will count the number of collected bonuses.
+  When crossing with enemies, the game ends.
+
 Version #0.1
 Tasks:
   Create "enemies" (red elements):
